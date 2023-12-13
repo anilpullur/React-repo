@@ -1,0 +1,9 @@
+.header{
+    background-color: brown;
+    color: aliceblue;
+    width: 160px;
+    box-sizing: border-box;
+    padding: 3.5px;
+    border-radius: 30px;
+    text-align: center;
+}
